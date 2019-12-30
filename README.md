@@ -1,5 +1,5 @@
 # Will Pope
-**Data Scientist** highly experienced in Python, SQL, Hadoop, Tableau and machine learning with
+**Data Scientist** experienced in Python, SQL, Hadoop, Tableau and machine learning with
 a professional certification in Data Science and Analytics from Georgia Tech. Dedicated to
 providing accurate insights and thorough reports that will shape an organization's future
 decisions. Brings an accomplished, multidisciplinary executive perspective with extensive
