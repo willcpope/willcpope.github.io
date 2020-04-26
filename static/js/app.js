@@ -87,7 +87,7 @@ var experiences = [
   },
   {
     name: "The College Football All-Star Classic",
-    language_type: "Entrepreniurship, Cross-Functional Team Leadership, Event Management, Operations, Brand Management, Marketing, Sales, Activation, Ticket Operations",
+    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Brand Management, Marketing, Sales, Activation, Ticket Operations",
     description: "Week-long event televised live on CBS Sports Network with ver 130 NFL scouts and 80 future NFL players. ",
     url: "https://www.youtube.com/watch?v=b85VtXCSyBc&feature=emb_title"
   },
@@ -105,7 +105,7 @@ var experiences = [
   },
   {
     name: "University of North Alabama",
-    language_type: "Sports Business, Consulting, Analysis, Strategy, Entreprenuership",
+    language_type: "Sports Business, Consulting, Analysis, Strategy, Entrepreneurship",
     description: "Authored strategic plan for D1 move.",
     url: "https://www.youtube.com/watch?v=6wevnbt17kY&t"
   },
