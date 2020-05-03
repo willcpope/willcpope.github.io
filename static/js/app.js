@@ -17,13 +17,19 @@ var projects = [
   },
   {
     name: "European Alcohol Analysis",
-    language_type: "Python (SQLAlchemy), SQL, PostgreSQL, HTML/CSS, Javascript (D3, Leaflet), Mapbox API",
+    language_type: "Python (SQLAlchemy), SQL, PostgreSQL, HTML, CSS, Javascript (D3, Leaflet), Mapbox API",
     description: "Data exploration and visualization of alcohol consumption, alcohol production, alcohol related deaths and traffic related deaths in European countries.",
     url: "https://github.com/willcpope/alcohol-analysis"
   },
   {
-    name: "Web Project",
-    language_type: "HTML, CSS, JS",
+    name: "Mars Web Application",
+    language_type: "Python (Beautiful Soup, PyMongo, Splinter, Requests), MongoDB, HTML",
+    description: "Built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.",
+    url: "https://github.com/willcpope/web-scraping-challenge"
+  },
+    {
+    name: "Earthquake Visualization",
+    language_type: "Javascript (D3 and Leaflet), HTML, CSS",
     description: "Map that plots worldwide earthquake data based on magnitude, latitude, and longitude.",
     url: "https://github.com/willcpope/leaflet-challenge"
   },
