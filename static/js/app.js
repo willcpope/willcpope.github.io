@@ -4,22 +4,22 @@ var showProjects = document.querySelector('#show-projects');
 // making a list/array of objects/dictionaries
 var projects = [
   {
-    name: "Python Project",
-    language_type: "Python",
-    description: "Utilized Python requests, APIs, and JSON traversals to plot the weather of over 500 cities across the world",
-    url: "https://github.com/willcpope/python-api-challenge"
+    name: "Affordable Care Act Analysis",
+    language_type: "Python (Pandas, Matplotlib, Scipy, Numpy)",
+    description: "Evaluated the effects of the Affordable Care Act on uninsured rates, utilization of emergency services, mortality rates and/or healthcare expenditure.",
+    url: "https://github.com/willcpope/ACA_Analysis"
   },
   {
-    name: "SQL Project",
-    language_type: "SQL",
-    description: "Building and joining tables with coroporate employee data using POSTGRESQL",
-    url: "https://github.com/willcpope/sql-challenge"
+    name: "College Football Advertising Strategy",
+    language_type: "Python (Beautiful Soup), SQL, PostgreSQL",
+    description: "ETL project to build a database of Southeastern Conference college football data from 2012-2018 including: revenues, expenses, attendance, and television ratings.",
+    url: "github.com/willcpope/cfb-advertising-strategy"
   },
   {
-    name: "Mongo Project",
-    language_type: "Python, MongoDB, HTML",
-    description: "Web application that scrapes various websites for Mars data and displays the information in a single HTML page.",
-    url: "https://github.com/willcpope/web-scraping-challenge"
+    name: "European Alcohol Analysis",
+    language_type: "Python (SQLAlchemy), SQL, PostgreSQL, HTML/CSS, Javascript (D3, Leaflet), Mapbox API",
+    description: "Data exploration and visualization of alcohol consumption, alcohol production, alcohol related deaths and traffic related deaths in European countries.",
+    url: "https://github.com/willcpope/alcohol-analysis"
   },
   {
     name: "Web Project",
@@ -30,8 +30,8 @@ var projects = [
   {
     name: "Tableau Project",
     language_type: "Tableau",
-    description: "Coming Soon",
-    url: "https://github.com/willcpope/"
+    description: "Visualizations that the March year-over-year affect of the COVID-19 pandemic on Citi Bike usage in New York City by generation.",
+    url: "https://public.tableau.com/profile/will.pope#!/vizhome/COVID-19AffectonNYCCitiBikeUsagebyGeneration/YoYStory"
   },
   {
     name: "Machine Learning Project",
