@@ -29,7 +29,7 @@ var projects = [
   },
     {
     name: "Earthquake Visualization",
-    language_type: "Javascript (D3 and Leaflet), HTML, CSS",
+    language_type: "Javascript (D3, Leaflet), HTML, CSS",
     description: "Map that plots worldwide earthquake data based on magnitude, latitude, and longitude.",
     url: "https://github.com/willcpope/leaflet-challenge"
   },
