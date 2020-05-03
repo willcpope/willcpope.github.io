@@ -34,7 +34,7 @@ var projects = [
     url: "https://github.com/willcpope/leaflet-challenge"
   },
   {
-    name: "YoY Citi Bike Usage in NYC",
+    name: "Citi Bike Usage in NYC",
     language_type: "Tableau",
     description: "Visualizations of the March year-over-year affect of the COVID-19 pandemic on Citi Bike usage in New York City by generation.",
     url: "https://public.tableau.com/profile/will.pope#!/vizhome/COVID-19AffectonNYCCitiBikeUsagebyGeneration/YoYStory"
