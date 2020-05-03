@@ -42,13 +42,13 @@ var projects = [
   {
     name: "Machine Learning Project",
     language_type: "Mixture",
-    description: "Coming Soon",
+    description: "In-progress",
     url: "https://github.com/willcpope/"
   },
   {
     name: "Big Data Project",
     language_type: "Mixture",
-    description: "Coming Soon",
+    description: "In-progress",
     url: "https://github.com/willcpope/"
   },
 ];
