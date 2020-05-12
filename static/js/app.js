@@ -40,7 +40,7 @@ var projects = [
     url: "https://public.tableau.com/profile/will.pope#!/vizhome/COVID-19AffectonNYCCitiBikeUsagebyGeneration/YoYStory"
   },
   {
-    name: "Machine Learning Project",
+    name: "Machine Learning Models for the NASA Kepler Space Telescope",
     language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras Matplotlib)",
     description: "Machine learning models capable of classifying candidate exoplanets from the NASA Kepler space telescope dataset.",
     url: "https://github.com/willcpope/machine-learning-challenge"
