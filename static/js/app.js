@@ -41,9 +41,9 @@ var projects = [
   },
   {
     name: "Machine Learning Project",
-    language_type: "Mixture",
-    description: "In-progress",
-    url: "https://github.com/willcpope/"
+    language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras Matplotlib)",
+    description: "Machine learning models capable of classifying candidate exoplanets from the NASA Kepler space telescope dataset.",
+    url: "https://github.com/willcpope/machine-learning-challenge"
   },
   {
     name: "Big Data Project",
