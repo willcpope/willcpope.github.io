@@ -13,7 +13,7 @@ var projects = [
     name: "College Football Advertising Strategy",
     language_type: "Python (Beautiful Soup), SQL, PostgreSQL",
     description: "ETL project to build a database of Southeastern Conference college football data from 2012-2018 including: revenues, expenses, attendance, and television ratings.",
-    url: "github.com/willcpope/cfb-advertising-strategy"
+    url: "https://github.com/willcpope/cfb-advertising-strategy"
   },
   {
     name: "European Alcohol Analysis",
