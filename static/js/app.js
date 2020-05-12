@@ -40,7 +40,7 @@ var projects = [
     url: "https://public.tableau.com/profile/will.pope#!/vizhome/COVID-19AffectonNYCCitiBikeUsagebyGeneration/YoYStory"
   },
   {
-    name: "Machine Learning Models for the NASA Kepler Space Telescope",
+    name: "NASA Machine Learning Models",
     language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras Matplotlib)",
     description: "Machine learning models capable of classifying candidate exoplanets from the NASA Kepler space telescope dataset.",
     url: "https://github.com/willcpope/machine-learning-challenge"
@@ -67,7 +67,7 @@ projects.map(function (project) {
   <div class="card-body">
   <p class="text-center card-title">${project.language_type}</p>
   <p class="text-center card-text mb-4">${project.description}</p>
-  <p class="text-center learn-project"><a class="btn btn-primary" href="${project.url}">Learn More</a></p>
+  <p class="text-center learn-project"><a class="btn btn-primary" href="${project.url}" target="_blank">Learn More</a></p>
   </div>
   `;
   // append each div created to show-projects div in HTML
