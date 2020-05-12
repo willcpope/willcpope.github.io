@@ -22,7 +22,7 @@ var projects = [
     url: "https://github.com/willcpope/alcohol-analysis"
   },
   {
-    name: "Mars Web Application",
+    name: "Mars Web Scraping Application",
     language_type: "Python (Beautiful Soup, PyMongo, Splinter, Requests), MongoDB, HTML",
     description: "Built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.",
     url: "https://github.com/willcpope/web-scraping-challenge"
@@ -40,7 +40,7 @@ var projects = [
     url: "https://public.tableau.com/profile/will.pope#!/vizhome/COVID-19AffectonNYCCitiBikeUsagebyGeneration/YoYStory"
   },
   {
-    name: "NASA Machine Learning Models",
+    name: "NASA Machine Learning",
     language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras Matplotlib)",
     description: "Machine learning models capable of classifying candidate exoplanets from the NASA Kepler space telescope dataset.",
     url: "https://github.com/willcpope/machine-learning-challenge"
