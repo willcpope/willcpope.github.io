@@ -41,7 +41,7 @@ var projects = [
   },
   {
     name: "NASA Machine Learning",
-    language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras Matplotlib)",
+    language_type: "Python (Pandas, Scikit-learn, Tensorflow/Keras, Matplotlib)",
     description: "Machine learning models capable of classifying candidate exoplanets from the NASA Kepler space telescope dataset.",
     url: "https://github.com/willcpope/machine-learning-challenge"
   },
