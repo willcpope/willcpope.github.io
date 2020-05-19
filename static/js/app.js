@@ -29,9 +29,9 @@ var projects = [
   },
     {
     name: "Earthquake Visualization",
-    language_type: "Javascript (D3, Leaflet), HTML, CSS",
-    description: "Map that plots worldwide earthquake data based on magnitude, latitude, and longitude.",
-    url: "https://github.com/willcpope/leaflet-challenge"
+    language_type: "PySpark, SQL, Amazon Web Services",
+    description: "Performed the ETL process completely in the cloud, uploaded to an RDS instance, and analyzed with PySpark and SQL.",
+    url: "https://github.com/willcpope/big-data-challenge"
   },
   {
     name: "Citi Bike Usage in NYC",
