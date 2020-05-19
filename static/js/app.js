@@ -28,7 +28,7 @@ var projects = [
     url: "https://github.com/willcpope/web-scraping-challenge"
   },
     {
-    name: "Earthquake Visualization",
+    name: "Big Data: Amazon Review Analysis",
     language_type: "PySpark, SQL, Amazon Web Services",
     description: "Performed the ETL process completely in the cloud, uploaded to an RDS instance, and analyzed with PySpark and SQL.",
     url: "https://github.com/willcpope/big-data-challenge"
