@@ -46,8 +46,8 @@ var projects = [
     url: "https://github.com/willcpope/machine-learning-challenge"
   },
   {
-    name: "Big Data Project",
-    language_type: "Mixture",
+    name: "IMDB Box Office Predictor",
+    language_type: "Python(Pandas, Scikit-learn, Matplotlib), Javascript, Tableau, HTML, CSS",
     description: "In-progress",
     url: "https://github.com/willcpope/"
   },
