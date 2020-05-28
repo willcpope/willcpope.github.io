@@ -46,10 +46,10 @@ var projects = [
     url: "https://github.com/willcpope/machine-learning-challenge"
   },
   {
-    name: "IMDB Box Office Predictor",
-    language_type: "Python(Pandas, Scikit-learn, Matplotlib), Javascript, Tableau, HTML, CSS",
-    description: "In-progress",
-    url: "https://github.com/willcpope/"
+    name: "Movie Box Office Predictor",
+    language_type: "Python(Pandas, Scikit-learn, Matplotlib, Flask), Tableau, HTML, CSS",
+    description: "Trained a machine learning model that will predict a movie’s financial performance based on it’s critical reception.",
+    url: "https://github.com/willcpope/box_office_predictor"
   },
 ];
 
