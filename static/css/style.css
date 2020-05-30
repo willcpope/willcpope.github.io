@@ -6,14 +6,14 @@
 }
 /* styles h1 tag */
 h1{
-  font-size: 65px;
+  font-size: 62px;
   margin:0;
   padding:0;
 }
 
 /* colors header tags listed */
 h1{
-  color: #F13300;
+  color: #FFFFFF;
 }
 
 #about{
@@ -21,7 +21,7 @@ h1{
 }
 
 h3{
-  color: #63636E;
+  color: #FFFFFF;
 }
 
 #projects{
@@ -39,6 +39,7 @@ h3{
 
 /* removes spacing from h3 in jumbotron */
 .jumbotron h3{
+  color: #63636E;
   margin-bottom: 0;
   padding-bottom:0;
 }
@@ -50,11 +51,11 @@ h3{
   border-radius: 0;
 }
 .card-title{
-  color: #F13300;
+  color: #FFFFFF;
 }
 
 .card-text{
-  color: #FFFFFF;
+  color: #F13300;
 }
 
 card-header{
