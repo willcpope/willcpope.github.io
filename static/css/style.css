@@ -6,7 +6,7 @@
 }
 /* styles h1 tag */
 h1{
-  font-size: 60px;
+  font-size: 65px;
   margin:0;
   padding:0;
 }
@@ -14,6 +14,11 @@ h1{
 h1,#about h3,#projects,#experiences,#contact{
   color: #F13300;
 }
+
+h1,#about h3,#projects,#experiences,#contact{
+  color: #F13300;
+}
+
 /* removes spacing from h3 in jumbotron */
 .jumbotron h3{
   margin-bottom: 0;
@@ -22,13 +27,22 @@ h1,#about h3,#projects,#experiences,#contact{
 /* changes bg color and text color of jumbotron */
 /* makes corners of jumbotron sharp */
 .jumbotron{
-  background-color: #1A1A1A;
-  color: #ECECEC;
+  background-color: #212121;
+  color: #FFFFFF;
   border-radius: 0;
 }
-.card-title, .card-text, .card-header{
+.card-title{
   color: #F13300;
 }
+
+.card-text{
+  color: #FFFFFF;
+}
+
+card-header{
+  color: #F13300;
+}
+
 .card-header{
   font-size: 1.1rem;
 }
