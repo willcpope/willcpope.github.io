@@ -10,14 +10,32 @@ h1{
   margin:0;
   padding:0;
 }
+
 /* colors header tags listed */
-h1,#about h3,#projects,#experiences,#contact{
+h1{
   color: #F13300;
 }
 
-h1,#about h3,#projects,#experiences,#contact{
+#about{
   color: #F13300;
 }
+
+h3{
+  color: #63636E;
+}
+
+#projects{
+  color: #F13300;
+}
+
+#contact{
+  color: #F13300;
+}
+
+#experiences{
+  color: #F13300;
+}
+
 
 /* removes spacing from h3 in jumbotron */
 .jumbotron h3{
@@ -27,7 +45,7 @@ h1,#about h3,#projects,#experiences,#contact{
 /* changes bg color and text color of jumbotron */
 /* makes corners of jumbotron sharp */
 .jumbotron{
-  background-color: #212121;
+  background-color: #121217;
   color: #FFFFFF;
   border-radius: 0;
 }
