@@ -6,7 +6,7 @@
 }
 /* styles h1 tag */
 h1{
-  font-size: 75px;
+  font-size: 60px;
   margin:0;
   padding:0;
 }
@@ -22,8 +22,8 @@ h1,#about h3,#projects,#experiences,#contact{
 /* changes bg color and text color of jumbotron */
 /* makes corners of jumbotron sharp */
 .jumbotron{
-  background-color: #000000;
-  color: #FEFEFE;
+  background-color: #1A1A1A;
+  color: #ECECEC;
   border-radius: 0;
 }
 .card-title, .card-text, .card-header{
