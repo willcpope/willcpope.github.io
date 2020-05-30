@@ -12,7 +12,7 @@ h1{
 }
 /* colors header tags listed */
 h1,#about h3,#projects,#experiences,#contact{
-  color: #0275d8;
+  color: #8C7549;
 }
 /* removes spacing from h3 in jumbotron */
 .jumbotron h3{
@@ -22,12 +22,12 @@ h1,#about h3,#projects,#experiences,#contact{
 /* changes bg color and text color of jumbotron */
 /* makes corners of jumbotron sharp */
 .jumbotron{
-  background-color: #292b2c;
+  background-color: #072B1A;
   color: #fafafa;
   border-radius: 0;
 }
 .card-title, .card-text, .card-header{
-  color: #292b2c;
+  color: #BFA065;
 }
 .card-header{
   font-size: 1.1rem;
