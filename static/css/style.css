@@ -1,10 +1,13 @@
 /* Removes padding and margin and changes sizes of box content */
+
 *{
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
+
 /* styles h1 tag */
+
 h1{
   font-size: 62px;
   margin:0;
@@ -12,79 +15,91 @@ h1{
 }
 
 /* colors header tags listed */
+
 h1{
-  color: #FFFFFF;
+  color: #1D79DD;
 }
 
 #about{
-  color: #F13300;
+  color: #000000;
 }
 
-h3{
-  color: #FFFFFF;
+#about h3{
+  color: #1D79DD;
 }
 
 #projects{
-  color: #F13300;
+  color: #1D79DD;
 }
 
 #contact{
-  color: #F13300;
+  color: #1D79DD;
 }
 
 #experiences{
-  color: #F13300;
+  color: #1D79DD
 }
 
-
 /* removes spacing from h3 in jumbotron */
+
 .jumbotron h3{
-  color: #63636E;
+  color: #FFFFFF;
   margin-bottom: 0;
   padding-bottom:0;
 }
+
 /* changes bg color and text color of jumbotron */
 /* makes corners of jumbotron sharp */
+
 .jumbotron{
-  background-color: #121217;
-  color: #FFFFFF;
+  background-color: #111111;
+  color: #1D79DD;
   border-radius: 0;
 }
-.card-title{
-  color: #FFFFFF;
+
+.card-header{
+  color: #000000;
+}
+
+projects.card-title{
+  color: #EC3200;
+}
+
+experiences.card-title{
+  color: #48A902
 }
 
 .card-text{
-  color: #F13300;
-}
-
-card-header{
-  color: #F13300;
+  color: #000000;
 }
 
 .card-header{
   font-size: 1.1rem;
 }
+
 .card-header{
   background: none;
 }
+
 .card{
   position: relative;
   border: none;
   margin: .25rem 0;
-  background-color: #212121;
+  background-color: #f2f2f2;
   padding: 1rem;
   border-radius:0;
 }
+
 #projects{
   margin: 1rem auto;
   padding: 1rem;
 }
-}
+
 #experience{
   margin: 1rem auto;
   padding: 1rem;
 }
+
 .learn-project > a.btn{
   position: absolute;
   bottom: 1rem;
@@ -92,6 +107,7 @@ card-header{
   transform: translateX(-50%);
   border-radius: 0;
 }
+
 #contact > a{
   display: block;
 }
