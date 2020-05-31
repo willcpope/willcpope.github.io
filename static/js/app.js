@@ -47,7 +47,7 @@ var projects = [
   },
   {
     name: "Movie Box Office Predictor",
-    language_type: "Python(Pandas, Scikit-learn, Matplotlib, Flask), Tableau, HTML, CSS",
+    language_type: "Python (Pandas, Scikit-learn, Matplotlib, Flask), Tableau, HTML, CSS",
     description: "Machine learning model that predicts a movie’s financial performance based on critical reception.",
     url: "https://github.com/willcpope/box_office_predictor"
   },
