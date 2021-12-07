@@ -92,7 +92,7 @@ var experiences = [
     url: "https://www.cardlytics.com"
   },
   {
-    name: "Halo: Outpost Discovery (Herschend Live & Microsoft Xbox Game Studios)",
+    name: "Halo: Outpost Discovery (Herschend Live)",
     language_type: "Strategy, Partnership Marketing, Management, Event Management",
     description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience that came to Orlando, Philadelphia, Chicago, Houston, and Anaheim.",
     url: "https://vimeo.com/349659018"
