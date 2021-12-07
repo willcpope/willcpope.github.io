@@ -81,24 +81,24 @@ var showExperiences = document.querySelector('#show-experiences');
 var experiences = [
   {
     name: "Inspire Brands",
-    language_type: "Python, SQL, Tableau",
+    language_type: "Data Analysis, CRM & Campaign Analytics, Python, SQL, Tableau",
     description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales.",
     url: "https://inspirebrands.com"
   },
   {
     name: "Cardlytics",
-    language_type: "Python, SQL, Tableau",
+    language_type: "Data Operations Analysis,	Python, SQL, Tableau",
     description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year.",
     url: "https://www.cardlytics.com"
   },
   {
-    name: "Halo: Outpost Discovery (Herschend Live)",
+    name: "Halo: Outpost Discovery (Herschend Live & Microsoft Xbox Game Studios)",
     language_type: "Strategy, Partnership Marketing, Management, Event Management",
     description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience that came to Orlando, Philadelphia, Chicago, Houston, and Anaheim.",
     url: "https://vimeo.com/349659018"
   },
   {
-    name: "Camellia Bowl & FCS Kickoff",
+    name: "Camellia Bowl & FCS Kickoff (ESPN Events)",
     language_type: "Entrepreneurship, Cross-Functional Team Leadership, Management, Event Management, Budget Management, Operations, Brand Management, Marketing, Sales, Activation, Ticket Operations, Public Relations, Production",
     description: "Week-long internationally televised, ESPN-owned events.",
     url: "https://vimeo.com/148421119"
