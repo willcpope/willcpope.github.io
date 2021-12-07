@@ -82,13 +82,13 @@ var experiences = [
   {
     name: "Inspire Brands",
     language_type: "Data Analysis, CRM & Campaign Analytics, Python, SQL, Tableau",
-    description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales.",
+    description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales. Managing the CRM to build and own customer models for segmenting, targeting, and personalizing communication",
     url: "https://inspirebrands.com"
   },
   {
     name: "Cardlytics",
     language_type: "Data Operations Analysis,	Python, SQL, Tableau",
-    description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year.",
+    description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year. Created new tools to communicate the status of our data to our internal data users",
     url: "https://www.cardlytics.com"
   },
   {
