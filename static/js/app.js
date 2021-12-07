@@ -82,37 +82,37 @@ var experiences = [
   {
     name: "Inspire Brands",
     language_type: "Data Analysis, CRM & Campaign Analytics, Python, SQL, Tableau",
-    description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales. Managing the CRM to build and own customer models for segmenting, targeting, and personalizing communication.",
+    description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales.",
     url: "https://inspirebrands.com"
   },
   {
     name: "Cardlytics",
     language_type: "Data Operations Analysis,	Python, SQL, Tableau",
-    description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year. Created new tools to communicate the status of our data to our internal data users.",
+    description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year.",
     url: "https://www.cardlytics.com"
   },
   {
     name: "Halo: Outpost Discovery (Herschend Live)",
     language_type: "Strategy, Partnership Marketing, Management, Event Management",
-    description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience that came to Orlando, Philadelphia, Chicago, Houston, and Anaheim.",
+    description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience.",
     url: "https://vimeo.com/349659018"
   },
   {
     name: "Camellia Bowl & FCS Kickoff (ESPN Events)",
-    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Management, Event Management, Budget Management, Operations, Brand Management, Marketing, Sales, Activation, Ticket Operations, Public Relations, Production",
+    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
     description: "Week-long internationally televised, ESPN-owned events.",
     url: "https://vimeo.com/148421119"
   },
   {
     name: "The College Football All-Star Classic",
-    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Brand Management, Marketing, Sales, Activation, Ticket Operations",
+    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
     description: "Week-long event televised live on CBS Sports Network with ver 130 NFL scouts and 80 future NFL players. ",
     url: "https://www.youtube.com/watch?v=b85VtXCSyBc&feature=emb_title"
   },
   {
     name: "Alabama Football",
     language_type: "Management, Football Operations, Football Personnel, Recruiting Analysis",
-    description: "Hired by Coach Saban to partner with the Associate Athletic Director for Football in all aspects of football operations and oversee recruiting data analysis. 2009 SEC and National Champions.",
+    description: "Oversight of all aspects of football operations and recruiting data analysis. 2009 SEC and National Champions.",
     url: "https://www.facebook.com/watch/?v=331086607841547"
   },
   {
