@@ -80,9 +80,21 @@ var showExperiences = document.querySelector('#show-experiences');
 // making a list/array of objects/dictionaries
 var experiences = [
   {
-    name: "Halo: Outpost Discovery",
+    name: "Inspire Brands",
+    language_type: "Python, SQL, Tableau",
+    description: "Analyzing big data at Inspire Brands, the 2nd largest restaurant company in the U.S. with over 200M customers and $27B+ in global sales.",
+    url: "https://inspirebrands.com"
+  },
+  {
+    name: "Cardlytics",
+    language_type: "Python, SQL, Tableau",
+    description: "Analyzing big data at Cardlytics, one of the largest digital ad platforms with over 167M customers and $3.6T in consumer spend each year.",
+    url: "https://www.cardlytics.com"
+  },
+  {
+    name: "Halo: Outpost Discovery (Herschend Live)",
     language_type: "Strategy, Partnership Marketing, Management, Event Management",
-    description: " In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience that came to Orlando, Philadelphia, Chicago, Houston, and Anaheim.",
+    description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience that came to Orlando, Philadelphia, Chicago, Houston, and Anaheim.",
     url: "https://vimeo.com/349659018"
   },
   {
