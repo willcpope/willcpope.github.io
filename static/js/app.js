@@ -92,27 +92,27 @@ var experiences = [
     url: "https://www.cardlytics.com"
   },
   {
-    name: "Halo: Outpost Discovery (Herschend Live)",
+    name: "Halo: Outpost Discovery",
     language_type: "Strategy, Partnership Marketing, Management, Event Management",
     description: "In partnership with Microsoft-owned 343 Industries and Xbox, this weekend-long event was a first of its kind touring experience.",
     url: "https://vimeo.com/349659018"
   },
   {
-    name: "Camellia Bowl & FCS Kickoff (ESPN Events)",
-    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
-    description: "Week-long internationally televised, ESPN-owned events.",
+    name: "ESPN Events",
+    language_type: "Cross-Functional Management, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
+    description: "Co-founded and managed events including the Camellia Bowl, a week-long, nationally televised college football bowl game.",
     url: "https://vimeo.com/148421119"
   },
   {
     name: "The College Football All-Star Classic",
-    language_type: "Entrepreneurship, Cross-Functional Team Leadership, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
-    description: "Week-long event televised live on CBS Sports Network with ver 130 NFL scouts and 80 future NFL players. ",
+    language_type: "Cross-Functional Management, Event Management, Operations, Marketing, Sponsorship Sales and Activation.",
+    description: "Co-founded and managed a week-long event televised live on CBS Sports Network with over 130 NFL scouts and 80 future NFL players.",
     url: "https://www.youtube.com/watch?v=b85VtXCSyBc&feature=emb_title"
   },
   {
     name: "Alabama Football",
     language_type: "Management, Football Operations, Football Personnel, Recruiting Analysis",
-    description: "Oversight of all aspects of football operations and recruiting data analysis. 2009 SEC and National Champions.",
+    description: "Oversight of all aspects of football operations and recruiting data analysis including the 2009 SEC and National Championship team.",
     url: "https://www.facebook.com/watch/?v=331086607841547"
   },
   {
